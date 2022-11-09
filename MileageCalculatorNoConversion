@@ -8,7 +8,7 @@
  * off the MileageCalculatorNoConversion and switches
  * the radiobuttons to a combo box 
  * Due: 11/10/2022
- * Link to Github: https://ls22204.github.io/hello-world/
+ * Link to Github: https://ls22204.github.io/ExamPracticeExercises4/
  */
 import javafx.application.Application;
 import javafx.collections.FXCollections;
